@@ -1,6 +1,6 @@
 # Bug Dodger game
 
-A simple bug dodger game developed using vanilla JavaScript.
+A simple bug dodger game developed using vanilla JavaScript. This was part of a coding practice project that I had to undertake in CodeAcademy.
 
 Use the keyboard arrow buttons (left) and (right) to control the position of the ship to evade the incoming bugs and accumulate points the longer you survive.
 
